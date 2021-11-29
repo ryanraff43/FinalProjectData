@@ -1,4 +1,4 @@
-distance,cab_type,time_stamp,destination,source,price,surge_multiplier,id,product_id,name
+uber_distance,cab_type,time_stamp,destination,source,uber_price,uber_surge_multiplier,id,product_id,name
 1.11,Uber,1.54362E+12,West End,North End,12,1,009e9c53-074d-43cf-aef2-0fbc7a47ed3d,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
 1.11,Uber,1.5447E+12,West End,North End,16,1,23f145da-f0c1-4d1f-a184-496bc003a7db,6c84fd89-3f11-4782-9b50-97c468b19529,Black
 1.11,Uber,1.54473E+12,West End,North End,7.5,1,357559cb-8c58-4278-a41a-e33b2e0997a3,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
